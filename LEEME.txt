@@ -1,0 +1,8 @@
+EF360 1.1 — paquete para publicación
+
+1. Descomprime el ZIP en el Mac.
+2. Publica el contenido completo de la carpeta en un alojamiento HTTPS estático. El archivo index.html debe quedar en la raíz del sitio.
+3. Abre la dirección HTTPS en Safari del iPhone o iPad. Pulsa Compartir y Añadir a pantalla de inicio.
+4. En Ajustes configura tus grupos y horario. Las sesiones reales de Atletismo y Somos gente sana están disponibles para asignarlas a la agenda.
+
+Privacidad: datos locales, sin sincronización entre dispositivos. Exporta copias de seguridad. No introduzcas datos identificables del alumnado sin autorización. El asistente prepara consultas para ChatGPT; no contiene una API de IA integrada. La prueba de navegador automatizada fue bloqueada por el entorno; la instalación y el funcionamiento offline necesitan validación en Safari.
